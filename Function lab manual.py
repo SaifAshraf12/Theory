@@ -1,4 +1,4 @@
-'''# create a new python program that accept an integer value and return its fictorial
+# create a new python program that accept an integer value and return its fictorial
 def factorial(n):
     f = 1
     for i in range (1,n+1):
@@ -32,7 +32,7 @@ if prime(int(s))== True:
 else:
     print('Not Prime')
 
-'''
+
 # accepts list of integers and return sum of its elements
 def sum(list):
     s = 0
